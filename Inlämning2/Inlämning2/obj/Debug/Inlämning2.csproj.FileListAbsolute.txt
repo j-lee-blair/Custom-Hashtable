@@ -1,0 +1,18 @@
+C:\Users\J\Documents\Visual Studio 2012\Projects\Inlämning2\Inlämning2\bin\Debug\Inlämning2.exe.config
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\bin\Debug\Inlämning2.exe.config
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\bin\Debug\Inlämning2.exe
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\bin\Debug\Inlämning2.pdb
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.Form1.resources
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.Properties.Resources.resources
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.csproj.GenerateResource.Cache
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.exe
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.pdb
+C:\Users\J_dog\Desktop\unzipped projects\Inlämning2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.csprojResolveAssemblyReference.cache
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\bin\Debug\Inlämning2.exe.config
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.exe
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.pdb
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\bin\Debug\Inlämning2.exe
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\bin\Debug\Inlämning2.pdb
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.Form1.resources
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.Properties.Resources.resources
+C:\Users\J\Desktop\unzipped projects\DSOA\Inlämning2\Inlämning2.2\Inlämning2\Inlämning2\obj\Debug\Inlämning2.csproj.GenerateResource.Cache
